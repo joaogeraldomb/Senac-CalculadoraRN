@@ -95,6 +95,7 @@ const styles = StyleSheet.create({
     flex: 2,
     justifyContent: "center",
     backgroundColor: "#f5f5f5"
+    //backgroundColor: "#000080"
   },
   resultText: {
     color: "#282F38",
